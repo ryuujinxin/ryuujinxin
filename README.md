@@ -1,13 +1,13 @@
 <!-- ===================== BANNER ===================== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb7c5,50:ff8fab,100:bc002d&height=230&section=header&text=KonnichiwaKonnichiwa, watashi wa ,%20ryuujinxin desu!&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%E2%80%A2%20Sakura%20%E2%80%A2%20Code%20%E2%80%A2%20Coffee&descAlignY=60&descSize=17" alt="Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb7c5,50:ff8fab,100:bc002d&height=230&section=header&text=Konnichiwa,%20watashi%20wa%20ryuujinxin%20desu&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%E2%80%A2%20Sakura%20%E2%80%A2%20Code%20%E2%80%A2%20Coffee&descAlignY=60&descSize=17" alt="Banner" />
 </div>
 
-<h1 align="center">🌸 こんにちは、NAMA_KAMU です 🌸</h1>
+<h1 align="center">🌸 こんにちは、私は ryuujinxin です 🌸</h1>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=BC002D&center=true&vCenter=true&width=650&lines=Konnichiwa!+Selamat+datang+di+profil+saya+%F0%9F%8C%B8;Web+Developer+Pemula+%E2%9B%A9%EF%B8%8F;Suka+Membuat+Website+yang+Rapi+dan+Responsif+%F0%9F%92%BB;Ganbatte!+Terus+Belajar+Setiap+Hari+%F0%9F%8E%8C" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=BC002D&center=true&vCenter=true&width=650&lines=Konnichiwa,+watashi+wa+ryuujinxin+desu+%F0%9F%8C%B8;Selamat+datang+di+profil+saya+%E2%9B%A9%EF%B8%8F;Web+Developer+Pemula+%E2%9B%A9%EF%B8%8F;Suka+Membuat+Website+yang+Rapi+dan+Responsif+%F0%9F%92%BB;Ganbatte!+Terus+Belajar+Setiap+Hari+%F0%9F%8E%8C" alt="Typing SVG" />
   </a>
 </div>
 
