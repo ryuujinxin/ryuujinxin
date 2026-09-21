@@ -1,6 +1,6 @@
 <!-- ===================== BANNER ===================== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb7c5,50:ff8fab,100:bc002d&height=230&section=header&text=Konnichiwa,%20ryuujinxin!&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%E2%80%A2%20Sakura%20%E2%80%A2%20Code%20%E2%80%A2%20Coffee&descAlignY=60&descSize=17" alt="Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb7c5,50:ff8fab,100:bc002d&height=230&section=header&text=KonnichiwaKonnichiwa, watashi wa ,%20ryuujinxin desu!&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%E2%80%A2%20Sakura%20%E2%80%A2%20Code%20%E2%80%A2%20Coffee&descAlignY=60&descSize=17" alt="Banner" />
 </div>
 
 <h1 align="center">🌸 こんにちは、NAMA_KAMU です 🌸</h1>
