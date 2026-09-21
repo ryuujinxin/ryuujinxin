@@ -2,14 +2,16 @@
 
 # Halo, Saya Erlan! 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=430&lines=Full-Stack+Developer+%7C+Tech+Enthusiast;Building+Awesome+Web+Apps!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=530&lines=Erlangga+Prassetiawan;Full-Stack+Developer+%7C+Tech+Enthusiast;Building+Awesome+Web+Apps!)](https://git.io/typing-svg)
 
 </div>
 
-<!-- Efek Garis Ular / Neon Bergerak -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553dd.gif" width="100%">
+<p align="center">
+  Halo! Nama saya <b>Erlangga Prassetiawan</b>, seorang pengembang yang memiliki ketertarikan mendalam pada dunia pemrograman, pengembangan web modern, serta eksplorasi teknologi dan sistem interaktif. Saya selalu antusias dalam mempelajari hal-hal baru, merancang solusi kreatif melalui barisan kode, dan mengubah ide-ide fungsional menjadi project digital yang menarik serta bermanfaat.
+</p>
 
----
+<!-- Efek Garis Neon Bergerak -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553dd.gif" width="100%">
 
 ### 💻 Tech Stack & Tools
 
@@ -27,9 +29,6 @@
 
 ---
 
-<!-- Efek Garis Ular / Neon Bergerak -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553dd.gif" width="100%">
-
 ### 📊 GitHub Stats:
 
 <div align="center">
@@ -42,8 +41,17 @@
 
 ---
 
-<!-- Efek Garis Ular / Neon Bergerak -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553dd.gif" width="100%">
+### 🐍 Animasi Ular Kontribusi GitHub
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ryuujinxin/ryuujinxin/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ryuujinxin/ryuujinxin/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ryuujinxin/ryuujinxin/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
 
 ### 📫 Connect with Me:
 
