@@ -6,6 +6,9 @@
 
 </div>
 
+<!-- Efek Garis Ular / Neon Bergerak -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553dd.gif" width="100%">
+
 ---
 
 ### 💻 Tech Stack & Tools
@@ -24,6 +27,9 @@
 
 ---
 
+<!-- Efek Garis Ular / Neon Bergerak -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553dd.gif" width="100%">
+
 ### 📊 GitHub Stats:
 
 <div align="center">
@@ -36,18 +42,33 @@
 
 ---
 
-### 📫 Hubungi & Temukan Saya
+<!-- Efek Garis Ular / Neon Bergerak -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553dd.gif" width="100%">
+
+### 📫 Connect with Me:
 
 <div align="center">
 
-<a href="https://tiktok.com/@username_tiktok_kamu" target="_blank">
+<a href="https://tiktok.com/@username_kamu" target="_blank">
   <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="TikTok">
 </a>
-<a href="https://instagram.com/username_ig_kamu" target="_blank">
+<a href="https://instagram.com/username_kamu" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
 </a>
-<a href="https://linkedin.com/in/username_linkedin_kamu" target="_blank">
+<a href="https://youtube.com/@username_kamu" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube">
+</a>
+<a href="https://discord.com/users/id_discord_kamu" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+</a>
+<a href="https://t.co/username_kamu" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+</a>
+<a href="https://linkedin.com/in/username_kamu" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="mailto:emailkamu@example.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 
 </div>
